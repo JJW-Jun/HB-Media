@@ -1,9 +1,10 @@
 <<<<<<< HEAD
-text
 hello!!
-
-
 =======
-make
+hello!!
+<<<<<<< HEAD
+hello!!
+>>>>>>> test
+=======
 hello!!
 >>>>>>> test
