@@ -6,6 +6,7 @@ def monotonicIncrement(array):
             return False
     return True
 
+
 def monotonicDecrement(array):
     for i in range(len(array) - 1):
         if array[i] >= array[i + 1]:
@@ -14,9 +15,11 @@ def monotonicDecrement(array):
             return False
     return True
 
+
 def lenChecker(array) :
     if len(array) < 2 :
 		return True
+
 
 def isMonotonic(array):
     if lenChecker(array): return True
