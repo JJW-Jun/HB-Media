@@ -16,4 +16,3 @@ class Node:
                 queue.append(child)
 
         return array
-

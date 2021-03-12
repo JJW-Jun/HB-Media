@@ -28,9 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="625c86b3-a3c4-4abf-b26e-d1c7605813e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="625c86b3-a3c4-4abf-b26e-d1c7605813e7" name="Default Changelist" comment="&quot;Pycharm&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -388,13 +386,6 @@
       <option name="presentableId" value="Default" />
       <updated>1607006083276</updated>
     </task>
-    <task id="LOCAL-00006" summary="&quot;Pycharm&quot;">
-      <created>1607348876492</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1607348876492</updated>
-    </task>
     <task id="LOCAL-00007" summary="&quot;Pycharm&quot;">
       <created>1607439420987</created>
       <option name="number" value="00007" />
@@ -731,7 +722,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612967744186</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="&quot;Pycharm&quot;">
+      <created>1615560267545</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1615560267546</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
